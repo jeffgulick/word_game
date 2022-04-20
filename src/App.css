@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.page {
+  width: 100vw !important;
+  height: 100%;
+  color: red;
+  text-align: center;
+  margin: auto;
+}
